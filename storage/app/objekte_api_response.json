@@ -1,0 +1,1629 @@
+{
+  "status": {
+    "code": 200,
+    "errorcode": 0,
+    "message": "OK"
+  },
+  "response": {
+    "results": [
+      {
+        "actionid": "urn:onoffice-de-ns:smart:2.5:smartml:action:read",
+        "resourceid": "",
+        "resourcetype": "estate",
+        "cacheable": true,
+        "identifier": "",
+        "data": {
+          "meta": {
+            "cntabsolute": 117
+          },
+          "records": [
+            {
+              "id": 2779,
+              "type": "estate",
+              "elements": {
+                "Id": "2779",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.00290",
+                "breitengrad": "49.83890",
+                "strasse": "Wilhelm-Hoegener Straße",
+                "plz": "97230",
+                "ort": "Estenfeld"
+              }
+            },
+            {
+              "id": 2783,
+              "type": "estate",
+              "elements": {
+                "Id": "2783",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.02460",
+                "breitengrad": "49.79049",
+                "strasse": "Würzburger Straße",
+                "plz": "97228",
+                "ort": "Rottendorf"
+              }
+            },
+            {
+              "id": 2785,
+              "type": "estate",
+              "elements": {
+                "Id": "2785",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.97260",
+                "breitengrad": "49.72070",
+                "strasse": "Eibelstadter Weg",
+                "plz": "97084",
+                "ort": "Würzburg / Rottenbauer"
+              }
+            },
+            {
+              "id": 587849,
+              "type": "estate",
+              "elements": {
+                "Id": "587849",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "0.00000",
+                "breitengrad": "0.00000",
+                "strasse": "",
+                "plz": "",
+                "ort": ""
+              }
+            },
+            {
+              "id": 587851,
+              "type": "estate",
+              "elements": {
+                "Id": "587851",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "0.00000",
+                "breitengrad": "0.00000",
+                "strasse": "",
+                "plz": "",
+                "ort": ""
+              }
+            },
+            {
+              "id": 588191,
+              "type": "estate",
+              "elements": {
+                "Id": "588191",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.93297",
+                "breitengrad": "49.79245",
+                "strasse": "Teststraße",
+                "plz": "97070",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 588495,
+              "type": "estate",
+              "elements": {
+                "Id": "588495",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.94393",
+                "breitengrad": "49.75930",
+                "strasse": "Mönchsgartenweg",
+                "plz": "97084",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 588652,
+              "type": "estate",
+              "elements": {
+                "Id": "588652",
+                "kaufpreis": "0.00",
+                "lage": "Sehr zentrumsnah und trotzdem ruhig.\r\nDas Haus liegt in einer Seitenstraße unweit der Würzburger Residenz, des Ringparks und der Sanderuni.\r\nDie Altstadt ist demnach fußläufig erreichbar.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.93525",
+                "breitengrad": "49.79010",
+                "strasse": "Zwinger",
+                "plz": "97070",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 588773,
+              "type": "estate",
+              "elements": {
+                "Id": "588773",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.94071",
+                "breitengrad": "49.78896",
+                "strasse": "Friedrich-Ebert-Ring",
+                "plz": "97072",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589043,
+              "type": "estate",
+              "elements": {
+                "Id": "589043",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.97135",
+                "breitengrad": "49.84750",
+                "strasse": "Adam-Bausenwein-Straße",
+                "plz": "97222",
+                "ort": "Rimpar"
+              }
+            },
+            {
+              "id": 589049,
+              "type": "estate",
+              "elements": {
+                "Id": "589049",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.92623",
+                "breitengrad": "49.80020",
+                "strasse": "Bismarckstr.",
+                "plz": "97080",
+                "ort": "Würzburg / Grombühl"
+              }
+            },
+            {
+              "id": 589209,
+              "type": "estate",
+              "elements": {
+                "Id": "589209",
+                "kaufpreis": "0.00",
+                "lage": "Die Zellerau ist ein westlicher, linksmainischer Stadtbezirk. Er umfasst ein Gebiet von 3,26 Quadratkilometern. Begrenzt wird er durch den Main mit seinen Mainwiesen im Norden und Nordosten, sowie einen im Nordwesten am Main beginnenden Grüngürtel und eine steile Hanglage am Marienberg im Süden. Daher wird umgangssprachlich auch von der \"unteren\" (nördlichen) und \"oberen\" (südlichen) Zellerau gesprochen. Benachbarte Stadtbezirke sind im Norden das Dürrbachtal, im Osten die Altstadt und im Süden das Steinbachtal. Im Westen grenzen die Gemeinden Höchberg und Zell an. Die vorhandene Infrastruktur in der Zellerau lässt keine Wünsche offen. Von der Immobilie aus erreichen Sie fußläufig oder in wenigen Fahrminuten die Geschäfte des alltäglichen Bedarfs. Die Würzburger Innenstadt ist sehr gut mit den öffentlichen Verkehrsmitteln erreichbar.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.91375",
+                "breitengrad": "49.79302",
+                "strasse": "Jägerstraße",
+                "plz": "97082",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589293,
+              "type": "estate",
+              "elements": {
+                "Id": "589293",
+                "kaufpreis": "0.00",
+                "lage": "Die Zellerau ist ein westlicher, linksmainischer Stadtbezirk. Er umfasst ein Gebiet von 3,26 Quadratkilometern. Begrenzt wird er durch den Main mit seinen Mainwiesen im Norden und Nordosten, sowie einen im Nordwesten am Main beginnenden Grüngürtel und eine steile Hanglage am Marienberg im Süden. Daher wird umgangssprachlich auch von der \"unteren\" (nördlichen) und \"oberen\" (südlichen) Zellerau gesprochen. Benachbarte Stadtbezirke sind im Norden das Dürrbachtal, im Osten die Altstadt und im Süden das Steinbachtal. Im Westen grenzen die Gemeinden Höchberg und Zell an. Die vorhandene Infrastruktur in der Zellerau lässt keine Wünsche offen. Von der Immobilie aus erreichen Sie fußläufig oder in wenigen Fahrminuten die Geschäfte des alltäglichen Bedarfs. Die Würzburger Innenstadt ist sehr gut mit den öffentlichen Verkehrsmitteln erreichbar.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.91153",
+                "breitengrad": "49.79390",
+                "strasse": "Frankfurter Straße",
+                "plz": "97082",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589317,
+              "type": "estate",
+              "elements": {
+                "Id": "589317",
+                "kaufpreis": "0.00",
+                "lage": "Die Immobilie befindet sich im Würzburger Stadtteil Versbach und ist ca. 4 km von der Altstadt Würzburgs entfernt. Im Jahr 1978 wurde Versbach, einst eine landwirtschaftlich geprägte Kleingemeinde bedingt durch Tallage und hoch gelegene Felder, von Würzburg zwangseingemeindet.\r\nVersbach bietet mit Fußball, Karate, Volleyball und vielen anderen Sportarten ein breites Spektrum an Freizeitangeboten an. Ihre täglich anfallenden Erledigungen erreichen Sie bequem zu Fuß, denn alle Geschäfte befinden sich in Ihrer Nähe. Versbach bietet eine sehr gute Infrastruktur: die Buslinien 12, 21 und 45 fahren Sie mehrmals pro Stunde in die Würzburger Innenstadt.\r\nDes Weiteren sind Sie durch die Nähe der Bundesstraßen 8 und 19, sowie der A7 gut an das überörtliche Verkehrsnetz angeschlossen.",
+                "vermarktungsart": "miete",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96802",
+                "breitengrad": "49.81850",
+                "strasse": "Griesäckerstraße",
+                "plz": "97078",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589475,
+              "type": "estate",
+              "elements": {
+                "Id": "589475",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.23437",
+                "breitengrad": "49.54400",
+                "strasse": "Am Schlehleinskeller",
+                "plz": "97215",
+                "ort": "Uffenheim"
+              }
+            },
+            {
+              "id": 589511,
+              "type": "estate",
+              "elements": {
+                "Id": "589511",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.67621",
+                "breitengrad": "49.78132",
+                "strasse": "Nibelungenstraße",
+                "plz": "97292",
+                "ort": "Holzkirchen"
+              }
+            },
+            {
+              "id": 589521,
+              "type": "estate",
+              "elements": {
+                "Id": "589521",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96580",
+                "breitengrad": "49.71823",
+                "strasse": "Engelsweg",
+                "plz": "97084",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589535,
+              "type": "estate",
+              "elements": {
+                "Id": "589535",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.90946",
+                "breitengrad": "49.73085",
+                "strasse": "Hattenhauser Straße",
+                "plz": "97234",
+                "ort": "Reichenberg"
+              }
+            },
+            {
+              "id": 589553,
+              "type": "estate",
+              "elements": {
+                "Id": "589553",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.88233",
+                "breitengrad": "49.60010",
+                "strasse": "Höttinger Straße",
+                "plz": "97244",
+                "ort": "Bütthard"
+              }
+            },
+            {
+              "id": 589563,
+              "type": "estate",
+              "elements": {
+                "Id": "589563",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.72016",
+                "breitengrad": "49.90248",
+                "strasse": "Büttnergasse",
+                "plz": "97225",
+                "ort": "Zellingen"
+              }
+            },
+            {
+              "id": 589565,
+              "type": "estate",
+              "elements": {
+                "Id": "589565",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.91594",
+                "breitengrad": "49.73063",
+                "strasse": "Steige",
+                "plz": "97234",
+                "ort": "Reichenberg"
+              }
+            },
+            {
+              "id": 589585,
+              "type": "estate",
+              "elements": {
+                "Id": "589585",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.90390",
+                "breitengrad": "49.87030",
+                "strasse": "Josef-Weber-Straße",
+                "plz": "97261",
+                "ort": "Güntersleben"
+              }
+            },
+            {
+              "id": 589595,
+              "type": "estate",
+              "elements": {
+                "Id": "589595",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.87305",
+                "breitengrad": "49.80810",
+                "strasse": "Hauptstraße",
+                "plz": "97299",
+                "ort": "Zell am Main"
+              }
+            },
+            {
+              "id": 589605,
+              "type": "estate",
+              "elements": {
+                "Id": "589605",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.80631",
+                "breitengrad": "49.92574",
+                "strasse": "Untere Ringstraße",
+                "plz": "97267",
+                "ort": "Himmelstadt"
+              }
+            },
+            {
+              "id": 589613,
+              "type": "estate",
+              "elements": {
+                "Id": "589613",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.00342",
+                "breitengrad": "49.82628",
+                "strasse": "St.-Mauritius-Straße",
+                "plz": "97230",
+                "ort": "Estenfeld"
+              }
+            },
+            {
+              "id": 589631,
+              "type": "estate",
+              "elements": {
+                "Id": "589631",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "11.07919",
+                "breitengrad": "49.48021",
+                "strasse": "Am Schweigeracker",
+                "plz": "90425",
+                "ort": "Nürnberg"
+              }
+            },
+            {
+              "id": 589643,
+              "type": "estate",
+              "elements": {
+                "Id": "589643",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "miete",
+                "warmmiete": "0.00",
+                "laengengrad": "10.03318",
+                "breitengrad": "49.78767",
+                "strasse": "Am Reißbach",
+                "plz": "97228",
+                "ort": "Rottendorf"
+              }
+            },
+            {
+              "id": 589669,
+              "type": "estate",
+              "elements": {
+                "Id": "589669",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.92998",
+                "breitengrad": "49.82095",
+                "strasse": "Peter-Haupt-Straße",
+                "plz": "97080",
+                "ort": "Würzburg / Oberdürrbach"
+              }
+            },
+            {
+              "id": 589597,
+              "type": "estate",
+              "elements": {
+                "Id": "589597",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "miete",
+                "warmmiete": "451.00",
+                "laengengrad": "10.03705",
+                "breitengrad": "49.75671",
+                "strasse": "Rudolf-Wegmann-Straße",
+                "plz": "97288",
+                "ort": "Theilheim"
+              }
+            },
+            {
+              "id": 589167,
+              "type": "estate",
+              "elements": {
+                "Id": "589167",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "miete",
+                "warmmiete": "580.00",
+                "laengengrad": "9.96036",
+                "breitengrad": "49.81281",
+                "strasse": "Am Schwarzenberg",
+                "plz": "97078",
+                "ort": "Würzburg / Versbach"
+              }
+            },
+            {
+              "id": 589567,
+              "type": "estate",
+              "elements": {
+                "Id": "589567",
+                "kaufpreis": "0.00",
+                "lage": "Euerhausen ist ein kleiner, ruhiger Teilort der Gemeinde Giebelstadt. Die meisten Dinge des täglichen Bedarfs können im Hauptort erledigt werden: Lebensmittelgeschäfte, Bäckerei, Tankstelle, Kindergarten, Grundschule, Hausarzt, Zahnarzt und Gaststätten. Alle weiterführenden Schulen können mit öffentlichen Verkehrsmitteln (Bus vor Ort) gut erreicht werden. Die Stadt Würzburg erreichen Sie in ca. 20 Minuten mit dem Auto.",
+                "vermarktungsart": "miete",
+                "warmmiete": "650.00",
+                "laengengrad": "9.94752",
+                "breitengrad": "49.65260",
+                "strasse": "",
+                "plz": "97232",
+                "ort": "Giebelstadt"
+              }
+            },
+            {
+              "id": 589569,
+              "type": "estate",
+              "elements": {
+                "Id": "589569",
+                "kaufpreis": "0.00",
+                "lage": "Euerhausen ist ein kleiner, ruhiger Teilort der Gemeinde Giebelstadt. Die meisten Dinge des täglichen Bedarfs können im Hauptort erledigt werden: Lebensmittelgeschäfte, Bäckerei, Tankstelle, Kindergarten, Grundschule, Hausarzt, Zahnarzt und Gaststätten. Alle weiterführenden Schulen können mit öffentlichen Verkehrsmitteln (Bus vor Ort) gut erreicht werden. Die Stadt Würzburg erreichen Sie in ca. 20 Minuten mit dem Auto.",
+                "vermarktungsart": "miete",
+                "warmmiete": "750.00",
+                "laengengrad": "9.94752",
+                "breitengrad": "49.65260",
+                "strasse": "",
+                "plz": "97232",
+                "ort": "Giebelstadt / Euerhausen"
+              }
+            },
+            {
+              "id": 589653,
+              "type": "estate",
+              "elements": {
+                "Id": "589653",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "miete",
+                "warmmiete": "960.00",
+                "laengengrad": "9.95772",
+                "breitengrad": "49.78884",
+                "strasse": "Simon-Breu-Straße",
+                "plz": "97074",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589599,
+              "type": "estate",
+              "elements": {
+                "Id": "589599",
+                "kaufpreis": "0.00",
+                "lage": "",
+                "vermarktungsart": "miete",
+                "warmmiete": "1040.00",
+                "laengengrad": "10.03727",
+                "breitengrad": "49.75694",
+                "strasse": "Rudolf-Wegmann-Straße",
+                "plz": "97288",
+                "ort": "Theilheim"
+              }
+            },
+            {
+              "id": 589573,
+              "type": "estate",
+              "elements": {
+                "Id": "589573",
+                "kaufpreis": "0.00",
+                "lage": "Der Markt Höchberg liegt mit seinen rund 9600 Einwohnern im Herzen von Unterfranken. Er ist eine von den drei größten Gemeinden im Landkreis Würzburg. Das 1990 verliehene Prädikat „Markt“ verdankt Höchberg seiner ausgezeichneten Infrastruktur. Hierzu gehört ein breit gefächertes Einzelhandelsangebot, internationale Gastronomie sowie eine sehr gute medizinische Versorgung.\r\n\r\nEine hervorragende Betreuung für die kleinen Mitbürger bieten fünf Kindergärten mit Krippenplätzen einer davon ein Waldkindergarten, eine Grundschule, eine Mittelschule, eine Real- sowie eine Förderschule. Durch die unmittelbare Nähe ist Würzburg schnell erreicht, mit den öffentlichen Verkehrsmitteln oder dem Rad sind es nur ca. 10-15 Minuten Fahrzeit.",
+                "vermarktungsart": "miete",
+                "warmmiete": "1220.00",
+                "laengengrad": "9.88921",
+                "breitengrad": "49.78460",
+                "strasse": "Winterleitenweg",
+                "plz": "97204",
+                "ort": "Höchberg"
+              }
+            },
+            {
+              "id": 589615,
+              "type": "estate",
+              "elements": {
+                "Id": "589615",
+                "kaufpreis": "0.00",
+                "lage": "Diese Lage ist perfekt! Die Immobilie befindet sich mitten in der Würzburger Innenstadt. Eine ausgezeichnete Infrastruktur wird Sie überzeugen. \r\nNeben zahlreichen Einkaufsmöglichkeiten, verschiedensten Institutionen, Cafés und Restaurants erreichen Sie auch Ärzte und Apotheken fußläufig. Für weitere Strecken steht Ihnen eine ideale Verbindung mit den öffentlichen Verkehrsmitteln zur Verfügung. Nahe gelegene Sport- und Freizeitangebote sorgen dafür, dass keine Langeweile aufkommt.",
+                "vermarktungsart": "miete",
+                "warmmiete": "1400.00",
+                "laengengrad": "9.93009",
+                "breitengrad": "49.79677",
+                "strasse": "Innerer Graben",
+                "plz": "97070",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589571,
+              "type": "estate",
+              "elements": {
+                "Id": "589571",
+                "kaufpreis": "0.00",
+                "lage": "Der Markt Höchberg liegt mit seinen rund 9600 Einwohnern im Herzen von Unterfranken. Er ist eine von den drei größten Gemeinden im Landkreis Würzburg. Das 1990 verliehene Prädikat „Markt“ verdankt Höchberg seiner ausgezeichneten Infrastruktur. Hierzu gehört ein breit gefächertes Einzelhandelsangebot, internationale Gastronomie sowie eine sehr gute medizinische Versorgung.\r\n\r\nEine hervorragende Betreuung für die kleinen Mitbürger bieten fünf Kindergärten mit Krippenplätzen einer davon ein Waldkindergarten, eine Grundschule, eine Mittelschule, eine Real- sowie eine Förderschule. Durch die unmittelbare Nähe ist Würzburg schnell erreicht, mit den öffentlichen Verkehrsmitteln oder dem Rad sind es nur ca. 10-15 Minuten Fahrzeit.",
+                "vermarktungsart": "miete",
+                "warmmiete": "1650.00",
+                "laengengrad": "9.88921",
+                "breitengrad": "49.78460",
+                "strasse": "Winterleitenweg",
+                "plz": "97204",
+                "ort": "Höchberg"
+              }
+            },
+            {
+              "id": 589619,
+              "type": "estate",
+              "elements": {
+                "Id": "589619",
+                "kaufpreis": "0.00",
+                "lage": "Rottenbauer ist der südlichste Stadtteil Würzburgs und mit ca. 4300 Einwohnern eine eigenständige Gemeinde. \r\nDer ehemals ländlich geprägte Ort hat sich seit der Eingemeindung zur Stadt Würzburg sehr dynamisch entwickelt.\r\nDurch den Anschluss an das Netz der Würzburger Straßenbahn und durch die Ausweisung von neuen Baugebieten, \r\nRottenbauer Nord und Nord-Ost, entwickelt sich der Ort stetig:\r\nZu einem begehrten Wohnort mit dörflichem Charakter umgeben von reichlich Grün, aber mit dem Vorteil der städtischen Infrastruktur.",
+                "vermarktungsart": "miete",
+                "warmmiete": "2280.00",
+                "laengengrad": "9.96744",
+                "breitengrad": "49.71977",
+                "strasse": "Am Schloss",
+                "plz": "97084",
+                "ort": "Würzburg / Rottenbauer"
+              }
+            },
+            {
+              "id": 587425,
+              "type": "estate",
+              "elements": {
+                "Id": "587425",
+                "kaufpreis": "60000.00",
+                "lage": "Wüstenzell ist ein Ortsteil der Gemeinde Holzkirchen im unterfränkischen Landkreis Würzburg. \r\nDas Dorf liegt am Aalbach, im Westen der Gemeinde und an der Grenze zu Baden-Württemberg. Der Altort befindet sich im Tal des Aalbaches, nordöstlich schließt sich am Hang des Steinertberges ein Siedlungsgebiet an. \r\nHerrliche Blickhanglage oberhalb des Ortskerns im Ortsteil 'Wüstenzell'. Nur wenige Gehminuten zur Bushalltestelle. Ein Kindergarten ist in der Gemeinde vorhanden. Würzburg ist ca. 23 km entfernt. In ca. 6 km befindet sich die Autobahnauffahrt der 'A 3' in Richtung Wertheim-Frankfurt und Würzburg-Nürnberg.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.65696",
+                "breitengrad": "49.77590",
+                "strasse": "An der Hardt",
+                "plz": "97292",
+                "ort": "Holzkirchen"
+              }
+            },
+            {
+              "id": 1430,
+              "type": "estate",
+              "elements": {
+                "Id": "1430",
+                "kaufpreis": "79000.00",
+                "lage": "Der Heuchelhof ist ein Stadtbezirk und gleichzeitig ein Stadtteil im Süden Würzburgs mit einer gut ausgestatteten Infrastruktur.\r\nDurch die Bundesstraße 19 oder die Straßenbahnlinie 5 ist die Würzburger Altstadt schnell und unkompliziert zu erreichen. \r\nDer Breitensportverein SC Heuchelhof Würzburg e.V. bietet eine Vielzahl an Sportarten für jede Altersgruppe an.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96036",
+                "breitengrad": "49.74030",
+                "strasse": "Moskauer Ring",
+                "plz": "97084",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 1849,
+              "type": "estate",
+              "elements": {
+                "Id": "1849",
+                "kaufpreis": "85000.00",
+                "lage": "Randersacker ist ein Markt und zugleich eine Stadtrandgemeinde der Stadt Würzburg im unterfränkischen Landkreis Würzburg und ein bekannter Weinanbauort.\r\nDer Ort liegt am westlichen Maindreieck und grenzt an die Würzburger Stadtteile Frauenland, Sanderau, Heidingsfeld und Heuchelhof, sowie die Gemeinden Gerbrunn und Eibelstadt. Der Randersackerer Ortskern ist etwa vier Kilometer von der Würzburger Innenstadt entfernt.\r\nDie Buhaltestelle erreichen Sie in wenigen Gehminuten.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.99154",
+                "breitengrad": "49.76729",
+                "strasse": "Gerbrunner Straße",
+                "plz": "97236",
+                "ort": "Randersacker"
+              }
+            },
+            {
+              "id": 1584,
+              "type": "estate",
+              "elements": {
+                "Id": "1584",
+                "kaufpreis": "96000.00",
+                "lage": "Versbach liegt ca. 3 km nördöstlich der Würzburger Altstadt.\r\nTrotz der Nähe zur Stadt ist Versbach umgeben von weitläufigen landwirtschaftlichen Feldern und kleinen Waldstücken, die zu Spaziergängen einladen.\r\nDie Anbindung an die öffentlichen Verkehrsmittel ist sehr gut.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96675",
+                "breitengrad": "49.82015",
+                "strasse": "Kronbergstr.",
+                "plz": "97078",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 2383,
+              "type": "estate",
+              "elements": {
+                "Id": "2383",
+                "kaufpreis": "99000.00",
+                "lage": "Lengfeld ist ein Stadtbezirk und gleichzeitig ein Stadtteil von Würzburg im Nordosten der Stadt. Es befinden sich Baumärkte, Elektromärkte, mehrere Lebensmittelmärkte und viele weitere Gewerbebetriebe im Gemeinde- und im Industriegebiet. Für die Erschließung des IKEA-Marktes auf größtenteils Lengfelder Gemarkung wurde eine neue Anschlussstelle an der B 19 gebaut. Alles was Sie brauchen ist in unmittelbarer Nähe vorhanden - der Bus fährt regelmäßig nach Würzburg. Die Kindergärten sowie mehrere Supermärkte sind bequem zu Fuß erreichbar. Zur Würzburger Innenstadt sind es weniger als 4 km; die Würzburger Universitätsklinik befindet sich nur wenige Fahrminuten entfernt. Die Anbindung an die A7 und B19 ist sehr gut.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.97317",
+                "breitengrad": "49.80516",
+                "strasse": "Heisenbergstraße",
+                "plz": "97076",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 587385,
+              "type": "estate",
+              "elements": {
+                "Id": "587385",
+                "kaufpreis": "99000.00",
+                "lage": "Das Haus selbst befindet sich an einer befahrenen Straße. Die Umgebung der Ortsgemeinde Rimpar punktet vor allem durch seine idyllische Lage im Maintal. Die Gemeinden Rimpar und Maidbronn liegen nur ca. 9 Km nördlicher Richtung von der Würzburger Altstadt entfernt und beherbergen derzeit ca. 7800 Einwohner. Die familienfreundliche Gemeinde verfügt über eine gut ausgestattete Infrastruktur mit wirtschaftlichen und kulturellen Einrichtungen, die in Sachen Versorgung und Anbindung keine Wünsche offen lassen. Es gibt insgesamt sechs Kindergärten mit ca. 275 Kindern in elf Gruppen eine Grund- sowie eine Haupt- und Mittelschule, ein großes Seniorenzentrum sowie mehrere Ärzte. Nahversorger des täglichen Bedarfs, wie Supermärkte, Metzgereien und Bäckereien befinden sich im Ort. Für den kulinarischen Genuss sorgen neben zwei Italienern das Restaurant im Schloss Grumbach. Das alljährige \"Schlossfest\" ist ein sehr bekanntes und beliebtes Fest. Der nahegelegene Gramschatzer Wald mit Klettergarten und Walderlebniszentrum Einsiedel bieten Freizeitmöglichkeiten für die ganze Familie.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.95579",
+                "breitengrad": "49.85700",
+                "strasse": "Bischof-Schmitt-Straße",
+                "plz": "97222",
+                "ort": "Rimpar"
+              }
+            },
+            {
+              "id": 589009,
+              "type": "estate",
+              "elements": {
+                "Id": "589009",
+                "kaufpreis": "99000.00",
+                "lage": "Markt Einersheim wurde um 600 n. Chr. in der fränkischen Landnahme als \"Heim des Einher\" gegründet und 1542 wurde Markt Einersheim das Marktrecht verliehen.  \r\nDer Ortskern Markt Einersheim wird eingerahmt von zwei Torhäusern aus dem 14. Jahrhundert. Weiter ortsbildprägend sind der Marktplatz, das historische Rathaus, das Schloss, die Förstersche Aptoheke und weitere Fachwerkbauten und Bürgerhäuser.   \r\nMarkt Einersheim liegt an der B 8 im Osten des Landkreis Kitzingen in der \"Hellmitzheimer Bucht\", nah bei Iphofen und hat über Kitzingen-Biebelried eine gute Anbindung zum Biebelrieder Kreuz und damit an die Autobahnen A 3 und A 7. 1 km südlich des Stadtzentrums liegt der Bahnhof an der Bahnstrecke Nürnberg–Würzburg. Dieser ist seit dem Dezember 2006 in den Verkehrsverbund Großraum Nürnberg integriert.\r\nMarkt Einersheim gehört seit 2014 zur Kommunalen Allianz, welche sich aus sieben benachbarten Kommunen  im Landkreis Kitzingen zusammensetzt (Iphofen, Mainbernheim, Markt Einersheim, Martinsheim, Rödelsee, Seinsheim und Willanzheim):\r\nIm Ort befindet sich der Kindergarten „Haus des Kindes“ Träger ist die evangelische Kirchengemeinde Markt Einersheim. Die Grund -und Mittelschule, Dr. Karlheinz-Spielmann-Volksschule und ein Bildungszentrum der Bundesagentur für Arbeit befinden sich im Nachbarort Iphofen.\r\nOb Kultur oder Natur, Sport oder Entspannung, die Freizeitangebote in Iphofen und der schönen Umgebung sind vielfältig. Iphofen verfügt über Sport-, Fußball- und Tennisplätze. In Iphofen selbst gibt es außerdem ein Hallenbad und in Markt Einersheim ein Freibad.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.29790",
+                "breitengrad": "49.68790",
+                "strasse": "Possenheimer Straße",
+                "plz": "97348",
+                "ort": "Markt Einersheim"
+              }
+            },
+            {
+              "id": 589541,
+              "type": "estate",
+              "elements": {
+                "Id": "589541",
+                "kaufpreis": "110000.00",
+                "lage": "Willkommen in Rimpar, einer idyllischen Gemeinde, die sich durch ihre familienfreundliche Atmosphäre und eine erstklassige Infrastruktur auszeichnet. Hier finden Sie alles, was Sie für ein komfortables und erfülltes Leben benötigen, von wirtschaftlichen bis hin zu kulturellen Einrichtungen.\r\nRimpar bietet eine hervorragende Versorgung und Anbindung und lässt keine Wünsche offen. Die Gemeinde ist mit sechs Kindergärten, einer Grund- und einer Haupt- und Mittelschule sowie einem Seniorenzentrum bestens aufgestellt, um die Bedürfnisse von Familien jeden Alters zu erfüllen. Darüber hinaus finden sich zahlreiche Ärzte und Gesundheitseinrichtungen in unmittelbarer Nähe.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96147",
+                "breitengrad": "49.84919",
+                "strasse": "Konrad-Adenauer-Str.",
+                "plz": "97222",
+                "ort": "Rimpar"
+              }
+            },
+            {
+              "id": 1783,
+              "type": "estate",
+              "elements": {
+                "Id": "1783",
+                "kaufpreis": "120000.00",
+                "lage": "Die Immobilie befindet sich im Würzburger Stadtteil Versbach und ist ca. 4 km von der Altstadt Würzburgs entfernt. Im Jahr 1978 wurde Versbach, einst eine landwirtschaftlich geprägte Kleingemeinde bedingt durch Tallage und hoch gelegene Felder, von Würzburg zwangseingemeindet.\r\nVersbach bietet mit Fußball, Karate, Volleyball und vielen anderen Sportarten ein breites Spektrum an Freizeitangeboten an. Ihre täglich anfallenden Erledigungen erreichen Sie bequem zu Fuß, denn alle Geschäfte befinden sich in Ihrer Nähe. Versbach bietet eine sehr gute Infrastruktur: die Buslinien 12, 21 und 45 fahren Sie mehrmals pro Stunde in die Würzburger Innenstadt.\r\nDes Weiteren sind Sie durch die Nähe der Bundesstraßen 8 und 19, sowie der A7 gut an das überörtliche Verkehrsnetz angeschlossen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96323",
+                "breitengrad": "49.81380",
+                "strasse": "Versbacher Str.",
+                "plz": "97078",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589633,
+              "type": "estate",
+              "elements": {
+                "Id": "589633",
+                "kaufpreis": "129500.00",
+                "lage": "Der Stadtteil Sanderau ist 1856 nach der Aufhebung der Festungseigenschaft rechts des Mains entstanden und ist damit das älteste Stadtviertel außerhalb der Stadtmauer. Die Sanderau verfügt über eine gut ausgebauten Infrastruktur mit Geschäften, Lebensmittelläden, Friseuren, Apotheken und Ärzten. Auch die Innenstadt ist schnell zu erreichen, egal ob zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln. Neben der guten Infrastruktur bittet der Stadtteil auch zahlreiche Freizeitangebote.\r\nIm Sommer sind vor allem die weitläufigen Liegewiesen am Main, mit Kinderspielplätzen und Grillplätzen sehr beliebt. Ebenfalls im Sommer viel besucht ist der Stadtstrand, zwischen Innenstadt und Sanderau direkt am Main gelegen, kann man hier Getränke und Snacks im Liegestuhl genießen.\r\nFür Sportbegeisterte bietet der Sportplatz Sanderrasen genug Platz zum auspowern. Und wem ein Spaziergang als tägliche Bewegung reicht, der kann dies im nahegelegenen Ringpark tun.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.93552",
+                "breitengrad": "49.78597",
+                "strasse": "Am Exerzierplatz",
+                "plz": "97072",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 1142,
+              "type": "estate",
+              "elements": {
+                "Id": "1142",
+                "kaufpreis": "135000.00",
+                "lage": "Veitshöchheim liegt direkt an der B 27 von Würzburg nach Fulda. Die Entfernung zu Würzburg beträgt etwa 6 km. In der Nähe befinden sich die Autobahnen A 3 und A 7. Der Altort ist eine verkehrsberuhigte Zone. Der gesamte Ort ist so gelegen, dass nur Einwohner und Touristen in den Altort fahren. Die meistbefahrene Straße Veitshöchheims ist die Kreisstraße WÜ 3, die von der B 27 durch den Ortbereich über Güntersleben nach Rimpar führt. Veitshöchheim bietet eine Vielzahl an kulturellen und Sportlichen Freizeitaktivitäten wie zum Beispiel das Schloss und den Rokokogarten oder im Sommer das Geißbergbad, oder die Minigolfanlage. Allerdings bietet Veitshöchheim auch eine große Auswahl an Bildungseinrichtungen wie die Grund- und Hauptschule oder das Gymnasium, oder die Bayerische Landesanstalt für Weinbau und Gartenbau usw.\r\nIn wenigen Minuten sind Lebensmittelmärkte sowie ein Drogeriemarkt und in etwa 2 km Entfernung der Obimarkt erreichbar.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.88552",
+                "breitengrad": "49.82400",
+                "strasse": "Am Schenkenfeld",
+                "plz": "97209",
+                "ort": "Veitshöchheim"
+              }
+            },
+            {
+              "id": 589011,
+              "type": "estate",
+              "elements": {
+                "Id": "589011",
+                "kaufpreis": "139000.00",
+                "lage": "Mainbernheim gehört zu dem unterfränkischen Landkreis Kitzingen und ist an der B8 gelegen. Von dort gelangt man in ca. 10 Minuten nach Kitzingen, in ca. 30 Minuten nach Würzburg oder in ca. 50 Minuten nach Nürnberg. Eine gute Anbindung besteht zu den Autobahnen A3 und A7, diese sind über die Anschlussstelle Marktbreit bzw. Kitzingen-Biebelried zu erreichen.\r\nMainbernheim bietet ein hohes Freizeit- und Sportangebot wie z. B. das Bummeln durch den historischen Ortskern oder beim TSV Mainbernheim.\r\nEinkaufsmöglichkeiten des täglichen Bedarfs, ein Kindergarten, Ärzte und Apotheken sind vorhanden.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.21840",
+                "breitengrad": "49.71010",
+                "strasse": "Herrnstraße",
+                "plz": "97350",
+                "ort": "Mainbernheim"
+              }
+            },
+            {
+              "id": 1123,
+              "type": "estate",
+              "elements": {
+                "Id": "1123",
+                "kaufpreis": "140000.00",
+                "lage": "Die Eigentumswohnung befindet sich in zentraler Lage von  Zell am Main. Die Ortschaft bietet eine Vielzahl von möglichen Freizeitaktivitäten. Die Nähe zum Main, herrliche Streuobstwiesen und malerische Waldwege mit einem traumhaften Blick auf Würzburg und in das Maintal laden zu gemütlichen Spaziergängen oder ausgedehnten Wanderungen ein. Die Würzburger Altstadt liegt in ca. 5 km süd-östlicher Entfernung von Zell am Main und ist durch die Buslinien 22 und 52 unkompliziert zu erreichen. Außerdem gibt es gute Anbindungen zu der Autobahn A3, sowie zu nahgelegenen Bundesstraßen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.86508",
+                "breitengrad": "49.81170",
+                "strasse": "Küsterbergstraße",
+                "plz": "97299",
+                "ort": "Zell am Main"
+              }
+            },
+            {
+              "id": 2729,
+              "type": "estate",
+              "elements": {
+                "Id": "2729",
+                "kaufpreis": "149000.00",
+                "lage": "Lengfeld ist ein Stadtbezirk und gleichzeitig ein Stadtteil von Würzburg im Nordosten der Stadt. Es befinden sich Baumärkte, Elektromärkte, mehrere Lebensmittelmärkte und viele weitere Gewerbebetriebe im Gemeinde- und im Industriegebiet. Für die Erschließung des IKEA-Marktes auf größtenteils Lengfelder Gemarkung wurde eine neue Anschlussstelle an der B 19 gebaut. Alles was Sie brauchen ist in unmittelbarer Nähe vorhanden - der Bus fährt regelmäßig nach Würzburg. Die Kindergärten sowie mehrere Supermärkte sind bequem zu Fuß erreichbar. Zur Würzburger Innenstadt sind es weniger als 4 km; die Würzburger Universitätsklinik befindet sich nur wenige Fahrminuten entfernt. Die Anbindung an die A7 und B19 ist sehr gut.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.97804",
+                "breitengrad": "49.80260",
+                "strasse": "Werner-von-Siemens-Straße",
+                "plz": "97076",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589495,
+              "type": "estate",
+              "elements": {
+                "Id": "589495",
+                "kaufpreis": "149000.00",
+                "lage": "Holzkirchhausen ist ein Ortsteil der Gemeinde Helmstadt im unterfränkischen Landkreis Würzburg in Bayern. Die Anbindung an die Autobahn A 3 ist sehr gut, sodass Sie bequem die umliegenden Städte erreichen können. Für Naturliebhaber und Sportbegeisterte bietet die Umgebung zahlreiche Möglichkeiten für Aktivitäten im Freien. Die Nähe zu Wäldern und Flüssen lädt zu Spaziergängen, Fahrradtouren und anderen Freizeitaktivitäten ein.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.66595",
+                "breitengrad": "49.76140",
+                "strasse": "Unteres Tor",
+                "plz": "97264",
+                "ort": "Helmstadt"
+              }
+            },
+            {
+              "id": 589555,
+              "type": "estate",
+              "elements": {
+                "Id": "589555",
+                "kaufpreis": "149000.00",
+                "lage": "Leinach hat bedingt durch seine außerordentlich schöne landschaftliche Lage einen hohen Wohn- und Erholungswert und verfügt über nahezu alle Einrichtungen des täglichen Bedarfs.\r\nZwei Allgemeinärzte und eine Zahnarztpraxis kümmern sich um Ihre Gesundheit vor Ort.\r\nLeinach verfügt über eine Grundschule , in der Sie Ihre Kinder auch nach dem Unterricht bis 15:30 Uhr betreuen lassen können.\r\nSie können aus dem Angebot zweier Kindergärten wählen, für Kleinkinder ab dem 1. Lebensjahr.\r\nDie nahegelegene Sozialstation und zwei Tagespflegeeinrichtungen in Margetshöchheim und Greußenheim bieten ihre Dienste an.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.80034",
+                "breitengrad": "49.86616",
+                "strasse": "Riedstraße",
+                "plz": "97274",
+                "ort": "Leinach"
+              }
+            },
+            {
+              "id": 589635,
+              "type": "estate",
+              "elements": {
+                "Id": "589635",
+                "kaufpreis": "149000.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.06239",
+                "breitengrad": "49.66588",
+                "strasse": "Vorhof",
+                "plz": "97199",
+                "ort": "Ochsenfurt"
+              }
+            },
+            {
+              "id": 589013,
+              "type": "estate",
+              "elements": {
+                "Id": "589013",
+                "kaufpreis": "150000.00",
+                "lage": "Marktbreit liegt an der südlichsten Stelle des Maindreiecks am linken\r\nUfer des Mains. Das Maindreieck zählt mit zu den wärmsten Regionen\r\nFrankens und ist besonders günstig für den Anbau von Wein, Obst und\r\nGemüse.\r\nNeben der berühmten fränkischen Gastgeberfreundlichkeit überzeugt\r\ndas Städtchen mit seiner reizvollen landschaftlichen Umgebung, in der\r\nsie Kunst, Kultur und Geschichte erleben können. Durch die gute\r\nVerkehrsanbindung haben sie Anschluss an die Autobahn A7 und an\r\nLand- und Bundesstraße. Zudem verfügt Marktbreit über einen Bahnhof\r\nan der Bahnstrecke Treuchtlingen - Würzburg. In der Nähe befinden\r\nsich diverse Einkaufsmärkte und Schulen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.14282",
+                "breitengrad": "49.66649",
+                "strasse": "Lange Gasse",
+                "plz": "97340",
+                "ort": "Marktbreit"
+              }
+            },
+            {
+              "id": 589529,
+              "type": "estate",
+              "elements": {
+                "Id": "589529",
+                "kaufpreis": "150000.00",
+                "lage": "Gnodstadt ist ein Ortsteil von Marktbreit im Landkreis Kitzingen an der südlichsten Stelle des Maindreiecks. In Gnodstadt sind sieben Vereine ansässig, Landjugend, TSV Gnodstadt, Männergesangsverein, Landfrauen, Feuerwehrverein, Diakonieverein, Reit- und Fahrverein.\r\nDer Turn- und Sportverein TSV Gnodstadt stellt einen erheblichen Teil der Freizeitgestaltung dar.\r\nGnodstadt hat einen evangelischen Kindergarten. Marktbreit liegt an der südlichsten Stelle des Maindreiecks am linken Ufer des Mains. Das Maindreieck zählt mit zu den wärmsten Regionen Frankens und ist besonders günstig für den Anbau von Wein, Obst und Gemüse.\r\nNeben der berühmten fränkischen Gastgeberfreundlichkeit überzeugt das Städtchen mit seiner reizvollen landschaftlichen Umgebung, in der sie Kunst, Kultur und Geschichte erleben können. Durch die gute Verkehrsanbindung haben sie Anschluss an die Autobahn A7 und an Land- und Bundesstraße. Zudem verfügt Marktbreit über einen Bahnhof an der Bahnstrecke Treuchtlingen - Würzburg. In der Nähe befinden sich diverse Einkaufsmärkte und Schulen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.11879",
+                "breitengrad": "49.63969",
+                "strasse": "Channs",
+                "plz": "97340",
+                "ort": "Marktbreit"
+              }
+            },
+            {
+              "id": 2767,
+              "type": "estate",
+              "elements": {
+                "Id": "2767",
+                "kaufpreis": "159000.00",
+                "lage": "Lengfeld ist ein Stadtbezirk und gleichzeitig ein Stadtteil von Würzburg im Nordosten der Stadt. Es befinden sich Baumärkte, Elektromärkte, mehrere Lebensmittelmärkte und viele weitere Gewerbebetriebe im Gemeinde- und im Industriegebiet. Für die Erschließung des IKEA-Marktes auf größtenteils Lengfelder Gemarkung wurde eine neue Anschlussstelle an der B 19 gebaut. Alles was Sie brauchen ist in unmittelbarer Nähe vorhanden - der Bus fährt regelmäßig nach Würzburg. Die Kindergärten sowie mehrere Supermärkte sind bequem zu Fuß erreichbar. Zur Würzburger Innenstadt sind es weniger als 4 km; die Würzburger Universitätsklinik befindet sich nur wenige Fahrminuten entfernt. Die Anbindung an die A7 und B19 ist sehr gut.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.97334",
+                "breitengrad": "49.80520",
+                "strasse": "Heisenbergstraße",
+                "plz": "97076",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589667,
+              "type": "estate",
+              "elements": {
+                "Id": "589667",
+                "kaufpreis": "159000.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.97761",
+                "breitengrad": "49.81100",
+                "strasse": "Am Sonnfeld",
+                "plz": "97076",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 2167,
+              "type": "estate",
+              "elements": {
+                "Id": "2167",
+                "kaufpreis": "160000.00",
+                "lage": "Gerbrunn bietet Lebensqualität für Jung und Alt. Die Gemeinde ist familienfreundlich, gemeinschaftlich und vielseitig. Weitläufige Grünflächen und kleine Waldstücke sorgen dafür dass Naturliebhaber auf ihre Kosten kommen. \r\nDie B19 mit der Anbindung nach Würzburg sowie die B8 erreicht man in nur wenigen Minuten. \r\nGerbrunn liegt am östlichen Stadtrand von Würzburg, etwa vier Kilometer von dessen Innenstadt entfernt.\r\nAlle Einrichtungen des täglichen Bedarfs, Kindertagesstätten, eine Grund- und Mittelschule sowie Ärtze und Apotheken sind in Gerbrunn beherbergt.\r\nEine weitere Besonderheit ist die Nähe zur Universität am Hubland und dem Gelände der Landesgartenschau.\r\nDie Bushaltestelle ist nur wenige Gehminuten vom Haus entfernt.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.98064",
+                "breitengrad": "49.77817",
+                "strasse": "Schulweg",
+                "plz": "97218",
+                "ort": "Gerbrunn"
+              }
+            },
+            {
+              "id": 1030,
+              "type": "estate",
+              "elements": {
+                "Id": "1030",
+                "kaufpreis": "165000.00",
+                "lage": "Die Immobilie befindet sich im Ortsteil Eßleben und ist ca. fünf Kilometer südlich von Werneck entfernt.\r\nWerneck ist ein Markt im unterfränkischen Landkreis Schweinfurt.\r\nIn Werneck befinden sich der Kindergarten, die Grundschulen, mehrere Supermärkte sowie das Krankenhaus. \r\nDer schöne Ortskern, das Schloss von Werneck sowie der barocke Schlossgarten und die englische Parkanlage bieten eine kulturelle Abwechslung zum Alltag.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.07900",
+                "breitengrad": "49.94530",
+                "strasse": "Hauptstraße",
+                "plz": "97440",
+                "ort": "Werneck"
+              }
+            },
+            {
+              "id": 1894,
+              "type": "estate",
+              "elements": {
+                "Id": "1894",
+                "kaufpreis": "165000.00",
+                "lage": "Das Haus befindet sich in zentraler Lage von  Zell am Main. Die Ortschaft bietet eine Vielzahl von möglichen Freizeitaktivitäten. Die Nähe zum Main, herrliche Streuobstwiesen und malerische Waldwege mit einem traumhaften Blick auf Würzburg und in das Maintal laden zu gemütlichen Spaziergängen oder ausgedehnten Wanderungen ein. Die Würzburger Altstadt liegt in ca. 5 km süd-östlicher Entfernung von Zell am Main und ist durch die Buslinien 22 und 52 unkompliziert zu erreichen. Außerdem gibt es gute Anbindungen zu der Autobahn A3, sowie zu nahgelegenen Bundesstraßen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.87411",
+                "breitengrad": "49.80730",
+                "strasse": "Kohlsgasse",
+                "plz": "97299",
+                "ort": "Zell"
+              }
+            },
+            {
+              "id": 589443,
+              "type": "estate",
+              "elements": {
+                "Id": "589443",
+                "kaufpreis": "165000.00",
+                "lage": "Der Heuchelhof ist ein Stadtbezirk und gleichzeitig ein Stadtteil im Süden Würzburgs mit einer gut ausgestatteten Infrastruktur. Durch die Bundesstraße 19 oder die Straßenbahnlinie 5 ist die Würzburger Altstadt schnell und unkompliziert zu erreichen. Der Breitensportverein SC Heuchelhof Würzburg e.V. bietet eine Vielzahl an Sportarten für jede Altersgruppe an. Alle wichtigen Einrichtungen des täglichen Bedarfs sind vorhanden. Schulen, Kindergärten sowie eine großzügige medizinische Versorgung ergänzen das Angebot.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.95716",
+                "breitengrad": "49.74300",
+                "strasse": "Berner Straße",
+                "plz": "97084",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589391,
+              "type": "estate",
+              "elements": {
+                "Id": "589391",
+                "kaufpreis": "169000.00",
+                "lage": "Die Fichtestraße gehört zum Stadtbezirk Frauenland, dem bevölkerungsreichstem Bezirk nach der Altstadt. Dank der überwiegend lockeren Bebauung mit Einfamilienhäusern, Villen und Wohnvierteln mit Gartenanlagen ist das Frauenland dennoch relativ dünn besiedelt. Die Infarstruktur wird hier vorallem durch diverese Schulen, die Universität am Wittelsbacher Platz und am Hubland, mehere Kirchen und zwei Krankenhäuser geprägt.\r\n\r\nNatürlich sind darüber hinaus auch Lebensmittelgeschäfte, Bäckereien, Ärzte, Aphotheken und Restaurants vorhanden. Von der Fichtestraße ist es nur ein Katzensprung auf den Stadtring Süd. Die Innenstadt erreicht man mit dem Bus in etwa 20 Minuten. Und vom nahegelegen Südbahnhof fahren mehrmals täglich Züge Richtung Treuchtlingen, Marktbreit oder Lauda.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.94336",
+                "breitengrad": "49.78590",
+                "strasse": "Fichtestraße",
+                "plz": "97074",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589483,
+              "type": "estate",
+              "elements": {
+                "Id": "589483",
+                "kaufpreis": "169000.00",
+                "lage": "Der Markt Rimpar mit seinen rund 7.700 Einwohnern liegt etwa 8 Kilometer nordöstlich von Würzburg. Eine reiche Kulturlandschaft mit dem Wahrzeichen „Schloss Grumbach“, herrliche Wege mit Panoramablick und vielfältige Freizeitmöglichkeiten machen Rimpar lebens- und liebenswert. Mit PKW, Bus und Fahrrad ist der Markt schnell erreichbar. Kinderkrippen, -gärten und -hort gehören ebenso wie Grund- und Mittelschule zur Infrastruktur. Zahlreiche Nahversorger und Fachgeschäfte runden das vielfältige Angebot ab. Ob im Altort oder an den sanften Hängen – Rimpar ist lebens- und liebenswert.v",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96306",
+                "breitengrad": "49.84928",
+                "strasse": "Konrad-Adenauer-Straße",
+                "plz": "97222",
+                "ort": "Rimpar"
+              }
+            },
+            {
+              "id": 589037,
+              "type": "estate",
+              "elements": {
+                "Id": "589037",
+                "kaufpreis": "172000.00",
+                "lage": "Die Wohnung befindet sich in zentraler Lage von  Zell am Main. Die Ortschaft bietet eine Vielzahl von möglichen Freizeitaktivitäten. Die Nähe zum Main, herrliche Streuobstwiesen und malerische Waldwege mit einem traumhaften Blick auf Würzburg und in das Maintal laden zu gemütlichen Spaziergängen oder ausgedehnten Wanderungen ein. Die Würzburger Altstadt liegt in ca. 5 km süd-östlicher Entfernung von Zell am Main und ist durch die Buslinien 22 und 52 unkompliziert zu erreichen. Außerdem gibt es gute Anbindungen zu der Autobahn A3, sowie zu nahgelegenen Bundesstraßen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.86944",
+                "breitengrad": "49.81400",
+                "strasse": "Hauptstraße",
+                "plz": "97299",
+                "ort": "Zell am Main"
+              }
+            },
+            {
+              "id": 589663,
+              "type": "estate",
+              "elements": {
+                "Id": "589663",
+                "kaufpreis": "175000.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.02460",
+                "breitengrad": "49.79310",
+                "strasse": "Schulstraße",
+                "plz": "97228",
+                "ort": "Rottendorf"
+              }
+            },
+            {
+              "id": 2457,
+              "type": "estate",
+              "elements": {
+                "Id": "2457",
+                "kaufpreis": "179000.00",
+                "lage": "Der Heuchelhof ist ein Stadtbezirk und gleichzeitig ein Stadtteil im Süden Würzburgs mit einer gut ausgestatteten Infrastruktur. Durch die Bundesstraße 19 oder die Straßenbahnlinie 5 ist die Würzburger Altstadt schnell und unkompliziert zu erreichen. Der Breitensportverein SC Heuchelhof Würzburg e.V. bietet eine Vielzahl an Sportarten für jede Altersgruppe an. Alle wichtigen Einrichtungen des täglichen Bedarfs sind vorhanden. Schulen, Kindergärten sowie eine großzügige medizinische Versorgung ergänzen das Angebot.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.95952",
+                "breitengrad": "49.73922",
+                "strasse": "Moskauer Ring",
+                "plz": "97084",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 588265,
+              "type": "estate",
+              "elements": {
+                "Id": "588265",
+                "kaufpreis": "179000.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.89511",
+                "breitengrad": "49.83103",
+                "strasse": "Spitalfeld",
+                "plz": "97209",
+                "ort": "Veitshöchheim"
+              }
+            },
+            {
+              "id": 1258,
+              "type": "estate",
+              "elements": {
+                "Id": "1258",
+                "kaufpreis": "199000.00",
+                "lage": "Die Zellerau ist der viertgrößte Stadtbezirk Würzburgs und erstreckt sich westlich/nordwestlich des Mainviertels zwischen Main und Höchberger Straße.\r\nDie vorhandene Infrastruktur lässt keine Wünsche offen, dank guter Wohnraum- und Verkehrsinfrastruktur hat sich die Zellerau zu einem bevorzugten Stadtteil  von Würzburg entwickelt.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.91403",
+                "breitengrad": "49.79450",
+                "strasse": "Frankfurter Str.",
+                "plz": "97082",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 2363,
+              "type": "estate",
+              "elements": {
+                "Id": "2363",
+                "kaufpreis": "199000.00",
+                "lage": "Der Ortsteil Burggrumbach ist durch die gewachsene Nähe zur Ortschaft Unterpleichfeld. In den vergangenen Jahren haben zahlreiche Familien die Gemeinde Unterpleichfeld mit Ihren Ortsteilen zu ihrem neuen Zuhause gemacht. Nicht ohne Grund: Mit der wunderschönen Stadt Würzburg „vor der Haustüre“, sehr guten Autobahnanbindungen und zahlreichen sportlichen und kulturellen Möglichkeiten durch unsere zahlreichen Vereine, lässt es sich in „Pläfeld“ und \"Grumi\", wie die Einheimischen sagen, sehr gut leben.\r\n​\r\nFür Ihre Kinder ist gesorgt, mit zwei Kindergärten und der Pleichach-Volksschule, die als Grund- und Mittelschule in Unterpleichfeld angesiedelt ist. Im Gewerbegebiet \"An der Spielleite\" in Unterpleichfeld finden Sie sämtliche Geschäfte des täglichen Bedarfs.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.02950",
+                "breitengrad": "49.87300",
+                "strasse": "Bergstraße",
+                "plz": "97294",
+                "ort": "Unterpleichfeld"
+              }
+            },
+            {
+              "id": 587413,
+              "type": "estate",
+              "elements": {
+                "Id": "587413",
+                "kaufpreis": "199000.00",
+                "lage": "Bergtheim liegt im nordöstlichen Landkreis Würzburg und hat mit dem Ortsteil Opferbaum ca. 3.750 Einwohner. Durch die verkehrsgünstige Lage an der B 19, unweit der Autobahn A 7 und mit eigenem Haltepunkt an der Bahnstrecke Würzburg – Bamberg sowie an den ÖPNV, hat die Gemeinde in jüngster Zeit als bevorzugter Wohnort stark an Bedeutung gewonnen. Bergtheim verfügt über drei Kindertagesstätten, einer Volksschule und über zahlreiche Nahversorger. Bergtheim – der besondere Weinort mit Charakter.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.07570",
+                "breitengrad": "49.92420",
+                "strasse": "Kilianstraße",
+                "plz": "97241",
+                "ort": "Bergtheim / Opferbaum"
+              }
+            },
+            {
+              "id": 588687,
+              "type": "estate",
+              "elements": {
+                "Id": "588687",
+                "kaufpreis": "199000.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.16430",
+                "breitengrad": "49.76480",
+                "strasse": "Seebachstraße",
+                "plz": "97320",
+                "ort": "Albertshofen"
+              }
+            },
+            {
+              "id": 588743,
+              "type": "estate",
+              "elements": {
+                "Id": "588743",
+                "kaufpreis": "199000.00",
+                "lage": "Die Randersackererstraße befindet sich in der Sanderau, dem drittgrößten Stadtteil Würzburgs. Der Stadtteil ist 1856 nach der Aufhebung der Festungseigenschaft rechts des Mains enstanden und ist damit das älteste Stadtviertel außerhalb der Stadtmauer. Die Sanderau verfügt über eine gut ausgebauten Infrastruktur mit Geschäften, Lebensmittelläden, Friseuren, Aphotheken und Ärzten. Auch die Innenstadt ist schnell zu erreichen egal ob zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln. Neben der guten Infrastruktur bittet der Stadtteil auch zahlreiche Freizeitangebote.\r\nIm Sommer sind vor allem die weitläufigen Liegewiesen am Main, mit Kinderspileplätzen und Grillplätzen sehr beliebt. Ebenfalls im Sommer viel besucht ist der Stadtstrand, zwischen Innenstadt und Sanderau direkt am Main gelegen, kann man hier Getränke und Snacks im Liegestuhl genießen.\r\nFür Sportbegeisterte bietet der Sportplatz Sanderrasen genung Platz zum auspowern. Und wem ein Spaziergang als tägliche Bewegung reicht der kann dies im nahgelgenen Ringpark tun.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.93674",
+                "breitengrad": "49.78020",
+                "strasse": "Randersackerer Straße",
+                "plz": "97072",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 588989,
+              "type": "estate",
+              "elements": {
+                "Id": "588989",
+                "kaufpreis": "199000.00",
+                "lage": "Die Immobilie befindet sich in der Lindleinsmühle, ca. 4 km von der Altstadt Würzburgs entfernt. \r\nDie Uni-Klinik befindet sich in unmittelbarer Nähe. Ein Supermarkt mit Bäcker, eine Tankstelle sowie eine Sparkassenfiliale sind bequem zu Fuß erreichbar. \r\nLindleinsmühle sowie das angrenzende Versbach bieten mit Fußball, Karate, Volleyball und vielen anderen Sportarten ein breites Spektrum an Freizeitangeboten an. Zudem finden Sie in der Nähe weitere Einkaufsmärkte, Ärzte, Apotheken, eine Grundschule sowie Kindergärten und Spielplätze.\r\nEine sehr gute Infrastruktur ist vorhanden: die Buslinien 12, 21 und 45 fahren Sie mehrmals pro Stunde in die Würzburger Innenstadt. Des Weiteren sind Sie durch die Nähe der Bundesstraßen 8 und 19, sowie der A7 gut an das überörtliche Verkehrsnetz angeschlossen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96263",
+                "breitengrad": "49.81220",
+                "strasse": "Am Schwarzenberg",
+                "plz": "97078",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589125,
+              "type": "estate",
+              "elements": {
+                "Id": "589125",
+                "kaufpreis": "199000.00",
+                "lage": "Die Immobilie befindet sich im Würzburger Stadtteil Versbach und ist ca. 4 km von der Altstadt Würzburgs entfernt. Im Jahr 1978 wurde Versbach, einst eine landwirtschaftlich geprägte Kleingemeinde bedingt durch Tallage und hoch gelegene Felder, von Würzburg zwangseingemeindet. Versbach bietet mit Fußball, Karate, Volleyball und vielen anderen Sportarten ein breites Spektrum an Freizeitangeboten an. Ihre täglich anfallenden Erledigungen erreichen Sie bequem zu Fuß, denn alle Geschäfte befinden sich in Ihrer Nähe. Versbach bietet eine sehr gute Infrastruktur: die Buslinien 12, 21 und 45 fahren Sie mehrmals pro Stunde in die Würzburger Innenstadt. Des Weiteren sind Sie durch die Nähe der Bundesstraßen 8 und 19, sowie der A7 gut an das überörtliche Verkehrsnetz angeschlossen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96242",
+                "breitengrad": "49.81550",
+                "strasse": "Versbacher Straße",
+                "plz": "97078",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589133,
+              "type": "estate",
+              "elements": {
+                "Id": "589133",
+                "kaufpreis": "199000.00",
+                "lage": "Eingebettet in eine landschaftlich reizvolle Umgebung bietet die höchstgelegene Gemeinde im Landkreis Würzburg allen rund 2600 Einwohnern und Besuchern einen sehr hohen Erholungswert. Auch die hervorragende Verkehrsanbindung und die Nähe zu Würzburg machen das Leben und Arbeiten in Kist attraktiv.\r\n\r\nZahlreiche Bildungs- und Freizeiteinrichtungen, ein intaktes und reges Vereinsleben sowie ein gutes, gastronomisches Angebot schaffen die besten Voraussetzungen, sich in unserer Gemeinde rundum wohlzufühlen. Vielseitige Einkaufsmöglichkeiten, eine gute medizinische Betreuung und umfangreiche Pflegedienstleistungen vor Ort tragen zudem dazu bei.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.83663",
+                "breitengrad": "49.74384",
+                "strasse": "Harfenstr.",
+                "plz": "97270",
+                "ort": "Kist"
+              }
+            },
+            {
+              "id": 589159,
+              "type": "estate",
+              "elements": {
+                "Id": "589159",
+                "kaufpreis": "199000.00",
+                "lage": "Lengfeld ist ein Stadtbezirk und gleichzeitig ein Stadtteil von Würzburg im Nordosten der Stadt. Es befinden sich Baumärkte, Elektromärkte, mehrere Lebensmittelmärkte und viele weitere Gewerbebetriebe im Gemeinde- und im Industriegebiet. Für die Erschließung des IKEA-Marktes auf größtenteils Lengfelder Gemarkung wurde eine neue Anschlussstelle an der B 19 gebaut. Alles was Sie brauchen ist in unmittelbarer Nähe vorhanden - der Bus fährt regelmäßig nach Würzburg. An den Bus-Haltestellen Sonnfeld verkehren die Linien 20, 21, 34 und 92. Die Kindergärten sowie mehrere Supermärkte sind bequem zu Fuß erreichbar. Zur Würzburger Innenstadt sind es weniger als 4 km; die Würzburger Universitätsklinik befindet sich nur wenige Fahrminuten entfernt. Die Anbindung an die A7 und B19 ist sehr gut.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.97761",
+                "breitengrad": "49.81100",
+                "strasse": "Am Sonnfeld",
+                "plz": "97076",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589343,
+              "type": "estate",
+              "elements": {
+                "Id": "589343",
+                "kaufpreis": "199000.00",
+                "lage": "Das Objekt befindet sich in dem malerischen Ort Gänheim Stadtteil von der Stadt Arnstein. Gänheim zeichnet sich durch seine ruhige und idyllische Lage aus, umgeben von natürlicher Schönheit und grünen Landschaften.\r\n\r\nDie nächstgelegene Autobahn ist die A7 welche in nur wenigen Minuten mit dem Auto erreichbar ist.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.00910",
+                "breitengrad": "49.96550",
+                "strasse": "Frankenstraße",
+                "plz": "97450",
+                "ort": "Arnstein"
+              }
+            },
+            {
+              "id": 588461,
+              "type": "estate",
+              "elements": {
+                "Id": "588461",
+                "kaufpreis": "219000.00",
+                "lage": "Die Fichtestraße gehört zum Stadtbezirk Frauenland, dem bevölkerungsreichstem Bezirk nach der Altstadt. Dank der überwiegend lockeren Bebauung mit Einfamilienhäusern, Villen und Wohnvierteln mit Gartenanlagen ist das Frauenland dennoch relativ dünn besiedelt. Die Infarstruktur wird hier vorallem durch diverese Schulen, die Universität am Wittelsbacher Platz und am Hubland, mehere Kirchen und zwei Krankenhäuser geprägt.\r\n\r\nNatürlich sind darüber hinaus auch Lebensmittelgeschäfte, Bäckereien, Ärzte, Aphotheken und Restaurants vorhanden. Von der Fichtestraße ist es nur ein Katzensprung auf den Stadtring Süd. Die Innenstadt erreicht man mit dem Bus in etwa 20 Minuten. Und vom nahegelegen Südbahnhof fahren mehrmals täglich Züge Richtung Treuchtlingen, Marktbreit oder Lauda.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.94099",
+                "breitengrad": "49.78390",
+                "strasse": "Fichtestraße",
+                "plz": "97074",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589199,
+              "type": "estate",
+              "elements": {
+                "Id": "589199",
+                "kaufpreis": "219000.00",
+                "lage": "Heidingsfeld war von 1367 bis 1929 eine eigenständige Stadt und wurde am 1. Januar 1930 auf Wunsch der Bürger nach Würzburg eingemeindet. Daher leitet sich die heutige umgangssprachliche Bezeichnung „Städtle“ (für den Heidingsfelder Altort) ab, da Heidingsfeld quasi eine kleine Stadt in der großen Stadt Würzburg darstellt.\r\nHeidingsfeld, besitzt heute eine attraktive Lage , sowohl für Familien, Studenten und Senioren, wie auch für Gewerbetreibende.\r\nBus- und Straßenbahnanschluss, Nahversorger, Ärzte, Restaurants und ein vielfältiges Sportangebot befinden sich in der direkten Nachbarschaft. Gleichzeitig finden Sie eine sehr grüne und naturbelassene Umgebung vor, welche zu ausgedehnten Spaziergängen und anderen Freizeitaktivitäten in der Natur einlädt. Das macht die Katzenberg Terrassen so charmant und attraktiv.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.94804",
+                "breitengrad": "49.76230",
+                "strasse": "Bürgermeister-Otto-Straße",
+                "plz": "97084",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589347,
+              "type": "estate",
+              "elements": {
+                "Id": "589347",
+                "kaufpreis": "219000.00",
+                "lage": "Kürnach mit rund 5000 Einwohnern liegt in der Region Würzburg und ist ca. zehn Kilometer in nordöstlicher Richtung.\r\nDurch den Ort fließt ein Bach, der ebenfalls den Namen Kürnach trägt. Es erwartet Sie eine ideale Infrastruktur. \r\nSüdwestlich führt die Autobahn A 7 vorbei und kreuzt sich im äußersten Westen der Gemeinde mit der Bundesstraße 19. Durch die öffentlichen Verkehrsmittel (Buslinie) ist Würzburg gut zu erreichen. Eine Bushaltestelle befindet sich in nächster Nähe. Zahlreiche Wander- und Radwege werden Sie begeistern. Ein Kindergarten und eine Grundschule sowie verschiedenste Sport-Vereine für Groß und Klein sind in Kürnach angesiedelt. \r\nDie Gemeinde bietet Ihnen mehrere Einkaufsmöglichkeiten für den täglichen Bedarf, Restaurants, Cafés sowie ärztliche Versorgung.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.04410",
+                "breitengrad": "49.84390",
+                "strasse": "Am Trieb",
+                "plz": "97273",
+                "ort": "Kürnach"
+              }
+            },
+            {
+              "id": 588541,
+              "type": "estate",
+              "elements": {
+                "Id": "588541",
+                "kaufpreis": "229000.00",
+                "lage": "Die Ziegelaustraße befindet sich in der Äußeren Pleich, einem kleinen Stadtteil innerhalb der Altstadt von Würzburg.\r\nDer Stadtteil befindet sich westlich des Hauptbahnhofs, angrenzend an den Ringpark.\r\nDie Innenstadt mit zahlreichen Geschäften, Lebensmittelläden, Restaurants, Ärzten und Apotheken ist fußläufig in 5 Minuten erreichbar.\r\n\r\nWer ein gutes Kultur und Veranstaltungsangebot sucht, findet diese im nahe gelegenen Kulturspeicher.\r\nHier befindet sich das Museum im Kulturspeicher, das Bockshorntheater und der tanzSpeicher.\r\n\r\nFür Spaziergänger bietet sich nicht nur der Ringpark, sondern auch das nahe gelegene Mainufer an.\r\nDie berühmte Weinlage „Würzburger Stein“ erreichen Sie ebenfalls bequem zu Fuß.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.92516",
+                "breitengrad": "49.80230",
+                "strasse": "Ziegelaustraße",
+                "plz": "97080",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 588749,
+              "type": "estate",
+              "elements": {
+                "Id": "588749",
+                "kaufpreis": "229000.00",
+                "lage": "Die Randersackererstraße befindet sich in der Sanderau, dem drittgrößten Stadtteil Würzburgs. Der Stadtteil ist 1856 nach der Aufhebung der Festungseigenschaft rechts des Mains enstanden und ist damit das älteste Stadtviertel außerhalb der Stadtmauer. Die Sanderau verfügt über eine gut ausgebauten Infrastruktur mit Geschäften, Lebensmittelläden, Friseuren, Aphotheken und Ärzten. Auch die Innenstadt ist schnell zu erreichen egal ob zu Fuß, mit dem Fahrrad oder mit öffentlichen Verkehrsmitteln. Neben der guten Infrastruktur bittet der Stadtteil auch zahlreiche Freizeitangebote.\r\nIm Sommer sind vor allem die weitläufigen Liegewiesen am Main, mit Kinderspileplätzen und Grillplätzen sehr beliebt. Ebenfalls im Sommer viel besucht ist der Stadtstrand, zwischen Innenstadt und Sanderau direkt am Main gelegen, kann man hier Getränke und Snacks im Liegestuhl genießen.\r\nFür Sportbegeisterte bietet der Sportplatz Sanderrasen genung Platz zum auspowern. Und wem ein Spaziergang als tägliche Bewegung reicht der kann dies im nahgelgenen Ringpark tun.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.93674",
+                "breitengrad": "49.78020",
+                "strasse": "Randersackerer Straße",
+                "plz": "97072",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 588975,
+              "type": "estate",
+              "elements": {
+                "Id": "588975",
+                "kaufpreis": "229000.00",
+                "lage": "Veitshöchheim liegt direkt an der B 27 von Würzburg nach Fulda. Die Entfernung zu Würzburg beträgt etwa 6 km. In der Nähe befinden sich die Autobahnen A 3 und A 7. Der Altort ist eine verkehrsberuhigte Zone. Der gesamte Ort ist so gelegen, dass nur Einwohner und Touristen in den Altort fahren. Veitshöchheim bietet eine Vielzahl an kulturellen und Sportlichen Freizeitaktivitäten wie zum Beispiel das Schloss und den Rokokogarten oder im Sommer das Geißbergbad, oder die Minigolfanlage. Allerdings bietet Veitshöchheim auch eine große Auswahl an Bildungseinrichtungen wie die Grund- und Hauptschule oder das Gymnasium, oder die Bayerische Landesanstalt für Weinbau und Gartenbau usw.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.87878",
+                "breitengrad": "49.82960",
+                "strasse": "Stifterstraße",
+                "plz": "97209",
+                "ort": "Veitshöchheim"
+              }
+            },
+            {
+              "id": 588771,
+              "type": "estate",
+              "elements": {
+                "Id": "588771",
+                "kaufpreis": "230000.00",
+                "lage": "Gerbrunn bietet Lebensqualität für Jung und Alt. Die Gemeinde ist familienfreundlich, gemeinschaftlich und vielseitig. Weitläufige Grünflächen und kleine Waldstücke sorgen dafür dass Naturliebhaber auf ihre Kosten kommen. \r\nDie B19 mit der Anbindung nach Würzburg sowie die B8 erreicht man in nur wenigen Minuten. Gerbrunn liegt am östlichen Stadtrand von Würzburg, etwa vier Kilometer von dessen Innenstadt entfernt. Alle Einrichtungen des täglichen Bedarfs, Kindertagesstätten, eine Grund- und Mittelschule sowie Ärtze und Apotheken sind in Gerbrunn beherbergt. Eine weitere Besonderheit ist die Nähe zur Universität am Hubland und dem Gelände der Landesgartenschau. Die Bushaltestelle ist wenige Gehminuten von der Wohnung entfernt.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.98300",
+                "breitengrad": "49.78200",
+                "strasse": "Mühlweg",
+                "plz": "97218",
+                "ort": "Gerbrunn"
+              }
+            },
+            {
+              "id": 589033,
+              "type": "estate",
+              "elements": {
+                "Id": "589033",
+                "kaufpreis": "239000.00",
+                "lage": "Die familienfreundliche Gemeinde Rimpar verfügt über eine gut ausgestattete Infrastruktur mit wirtschaftlichen und kulturellen Einrichtungen, die in Sachen Versorgung und Anbindung keine Wünsche offen lassen. Es gibt insgesamt sechs Kindergärten mit ca. 275 Kindern in elf Gruppen eine Grund- sowie eine Haupt- und Mittelschule, ein großes Seniorenzentrum sowie mehrere Ärzte. Nahversorger des täglichen Bedarfs, wie Supermärkte, Metzgereien und Bäckereien befinden sich im Ort. Für den kulinarischen Genuss sorgen neben zwei Italienern das Restaurant im Schloss Grumbach. Das alljährige \"Schlossfest\" ist ein sehr bekanntes und beliebtes Fest. Der nahegelegene Gramschatzer Wald mit Klettergarten und Walderlebniszentrum Einsiedel bieten Freizeitmöglichkeiten für die ganze Familie.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96209",
+                "breitengrad": "49.84750",
+                "strasse": "Kurt-Schumacher-Straße",
+                "plz": "97222",
+                "ort": "Rimpar"
+              }
+            },
+            {
+              "id": 1243,
+              "type": "estate",
+              "elements": {
+                "Id": "1243",
+                "kaufpreis": "240000.00",
+                "lage": "Veitshöchheim bietet eine Vielzahl an kulturellen und Sportlichen Freizeitaktivitäten wie zum Beispiel das Schloss und den Rokokogarten oder im Sommer das Geißbergbad sowie die Minigolfanlage. Allerdings bietet Veitshöchheim auch eine große Auswahl an Bildungseinrichtungen wie die Grund- und Hauptschule oder das Gymnasium, oder die Bayerische Landesanstalt für Weinbau und Gartenbau.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.87463",
+                "breitengrad": "49.83420",
+                "strasse": "Herrnstr.",
+                "plz": "97209",
+                "ort": "Veitshöchheim"
+              }
+            },
+            {
+              "id": 1508,
+              "type": "estate",
+              "elements": {
+                "Id": "1508",
+                "kaufpreis": "249000.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.88704",
+                "breitengrad": "49.82940",
+                "strasse": "Heinestr.",
+                "plz": "97209",
+                "ort": "Veitshöchheim"
+              }
+            },
+            {
+              "id": 589477,
+              "type": "estate",
+              "elements": {
+                "Id": "589477",
+                "kaufpreis": "249000.00",
+                "lage": "Herzlich Willkommen in Duttenbrunn. Duttenbrunn gehört zur Marktgemeinde Zellingen. Zellingen genießt die direkte und kurze Verkehrsanbindung nach Würzburg (15 km) und zur Kreisstadt Karlstadt (10 km). Die Marktgemeinde verfügt über eine gute Infrastuktur: Kindergärten, Grund- und Hauptschule , Ärzte, Apotheke sowie zahlreiche Geschäfte für alle Dinge des täglichen Bedarfs sind vorhanden.  Außerdem gibt es viele Sport- und Freizeitmöglichkeiten Freibad, Wassersportarten, umfangreiches Wander- und Radwegenetz). Zellingen ist mit mehreren Buslinien mit den Nachbarorten und mit Würzburg verbunden. Auf der östlichen Mainseite liegt der Bahnhof Retzbach-Zellingen an der Strecke Würzburg-Gemünden.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.71832",
+                "breitengrad": "49.90310",
+                "strasse": "Stadelhofer Straße",
+                "plz": "97225",
+                "ort": "Zellingen"
+              }
+            },
+            {
+              "id": 587433,
+              "type": "estate",
+              "elements": {
+                "Id": "587433",
+                "kaufpreis": "250000.00",
+                "lage": "Die sehr beliebte Gemeinde Veitshöchheim am Main befindet sich etwa sechs Kilometer nördlich von Würzburg und hat knapp 10.000 Einwohner. Im Herzen des malerischen Altortes liegt der einzigartige Rokokogarten mit der von Balthasar Neumann gestalteten Sommerresidenz der Würzburger Fürstbischöfe. Die Gemeinde ist über Bahn, Bus, PKW (B 27), Fahrrad und Schiff schnell zu erreichen. Veitshöchheim verfügt von der Krippe bis zum Gymnasium über alle Bildungseinrichtungen. Zudem hat hier die Bayerische Landesanstalt für Wein- und Gartenbau Ihren Sitz. Nahversorger und zahlreiche Fachgeschäfte, blumengeschmückte Gassen und zahlreiche Freizeitmöglichkeiten machen Veitshöchheim zu einem ganz besonderen Wohnsitz.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.88899",
+                "breitengrad": "49.83020",
+                "strasse": "Günterslebener Straße",
+                "plz": "97209",
+                "ort": "Veitshöchheim"
+              }
+            },
+            {
+              "id": 588389,
+              "type": "estate",
+              "elements": {
+                "Id": "588389",
+                "kaufpreis": "250000.00",
+                "lage": "Das Grundstück befindet sich im Würzburger Stadtteil Versbach ca. 4 km von der Altstadt Würzburgs entfernt. Die Uni-Klinik sowie der Lidl sind bequem zu Fuß erreichar. Im Jahr 1978 wurde Versbach, einst eine landwirtschaftlich geprägte Kleingemeinde bedingt durch Tallage und hoch gelegene Felder, von Würzburg zwangseingemeindet. \r\n\r\nVersbach bietet mit Fußball, Karate, Volleyball und vielen anderen Sportarten ein breites Spektrum an Freizeitangeboten an. Ihre täglich anfallenden Erledigungen erreichen Sie bequem zu Fuß, denn alle Geschäfte befinden sich in Ihrer Nähe. Versbach bietet eine sehr gute Infrastruktur: die Buslinien 12, 21 und 45 fahren Sie mehrmals pro Stunde in die Würzburger Innenstadt. Des Weiteren sind Sie durch die Nähe der Bundesstraßen 8 und 19, sowie der A7 gut an das überörtliche Verkehrsnetz angeschlossen.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.96593",
+                "breitengrad": "49.81900",
+                "strasse": "Lengfelder Straße",
+                "plz": "97078",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589545,
+              "type": "estate",
+              "elements": {
+                "Id": "589545",
+                "kaufpreis": "250000.00",
+                "lage": "Die Marktgemeinde Höchberg liegt direkt an der westlichen Stadtrandgrenze von Würzburg und hat aktuell etwa 9.300 Einwohner. Der Ort verfügt über mehrere Kinderkrippen und Kindertagesstätten, sowie über eine Grund-, Real- und Sonderschule. Über die Nähe zu Würzburg stehen nahezu alle weiteren Bildungseinrichtungen zur Verfügung. Mehrere Buslinien schaffen eine Anbindung in die Stadt und den Landkreis. Im Ort befinden sich zahlreiche Geschäfte und Nahversorger. Der Slogan vom Markt Höchberg „Stadtnah wohnen – naturnah leben“ charakterisiert die vielfältigen Möglichkeiten der Freizeitgestaltung wie etwa Wanderwege oder einem Besuch des Mainlandbades.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.88342",
+                "breitengrad": "49.78304",
+                "strasse": "Alte Steige",
+                "plz": "97204",
+                "ort": "Höchberg"
+              }
+            },
+            {
+              "id": 2781,
+              "type": "estate",
+              "elements": {
+                "Id": "2781",
+                "kaufpreis": "259000.00",
+                "lage": "Rödelsee ist eine vom Weinbau geprägte Gemeinde im unterfränkischen Landkreis Kitzingen und ein Mitglied der Verwaltungsgemeinschaft Iphofen. Rödelsee liegt am Fuß des Schwanbergs. \r\nDie Umgebung rund um den Schwanberg bietet vielfältige Freizeitmöglichkeiten, darunter auch mehrere ausgewiesene Wanderwege. Der Bewegungsparcours hinter dem Schloss Crailsheim wurde für alle Generationen konzipiert. Eine Grundschule befindet sich im Ort. In wenigen Fahrminuten erreichen Sie Iphofen oder das Gewerbegebiet Goldberg in Kitzingen. Würzburg ist etwa 25 km entfernt.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.24390",
+                "breitengrad": "49.72840",
+                "strasse": "An den Kirchen",
+                "plz": "97348",
+                "ort": "Rödelsee"
+              }
+            },
+            {
+              "id": 589139,
+              "type": "estate",
+              "elements": {
+                "Id": "589139",
+                "kaufpreis": "259000.00",
+                "lage": "Eingebettet in eine landschaftlich reizvolle Umgebung bietet die höchstgelegene Gemeinde im Landkreis Würzburg allen rund 2600 Einwohnern und Besuchern einen sehr hohen Erholungswert. Auch die hervorragende Verkehrsanbindung und die Nähe zu Würzburg machen das Leben und Arbeiten in Kist attraktiv.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.83663",
+                "breitengrad": "49.74384",
+                "strasse": "Harfenstr.",
+                "plz": "97270",
+                "ort": "Kist"
+              }
+            },
+            {
+              "id": 589339,
+              "type": "estate",
+              "elements": {
+                "Id": "589339",
+                "kaufpreis": "259000.00",
+                "lage": "Frickenhausen am Main ist ein Markt im unterfränkischen Landkreis Würzburg und Mitglied der Verwaltungsgemeinschaft Eibelstadt. Es handelt sich um einen der ältesten mittelalterlichen Weinorte in Mainfranken, dessen historisches Erscheinungsbild weitgehend erhalten ist. Unter der Herrschaft des Domkapitels zu Würzburg entstanden zahlreiche Fachwerk- und Barockgebäude. Die Weingüter sind seit salischer Zeit bekannt. Frickenhausen am Main liegt im Regierungsbezirk Unterfranken, in der Region Mainfranken, im Landkreis Würzburg an der südlichen Spitze des Maindreiecks.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.09460",
+                "breitengrad": "49.67350",
+                "strasse": "Uppentalstrasse",
+                "plz": "97252",
+                "ort": "Frickenhausen"
+              }
+            },
+            {
+              "id": 588767,
+              "type": "estate",
+              "elements": {
+                "Id": "588767",
+                "kaufpreis": "264000.00",
+                "lage": "",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.93525",
+                "breitengrad": "49.79010",
+                "strasse": "Zwinger",
+                "plz": "97070",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 589449,
+              "type": "estate",
+              "elements": {
+                "Id": "589449",
+                "kaufpreis": "265000.00",
+                "lage": "Ochsenfurt ist mit 11.500 Einwohnern die größte Stadt im Landkreis Würzburg und liegt im südlichen Maindreieck. Die historische Altstadt mit zahlreichen Fachwerkhäusern und Türmen wird von einer fast vollständig erhaltener Befestigungsanlage  umrahmt. Das Wahrzeichen ist das Neue Rathaus aus dem 15. Jahrhundert. Ochsenfurt liegt direkt am Mainwanderweg und ist mit Bus, Bahn und PKW bequem zu erreichen. Von der Krippe bis zur Realschule hat die Stadt ein umfangreiches Betreuungs- und Bildungsangebot. Nahversorger und zahlreiche Fachgeschäfte laden zum Einkaufen und Bummeln ein.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "10.06620",
+                "breitengrad": "49.66440",
+                "strasse": "Mangstraße",
+                "plz": "97199",
+                "ort": "Ochsenfurt"
+              }
+            },
+            {
+              "id": 588477,
+              "type": "estate",
+              "elements": {
+                "Id": "588477",
+                "kaufpreis": "269000.00",
+                "lage": "Die Fichtestraße gehört zum Stadtbezirk Frauenland, dem bevölkerungsreichstem Bezirk nach der Altstadt. Dank der überwiegend lockeren Bebauung mit Einfamilienhäusern, Villen und Wohnvierteln mit Gartenanlagen ist das Frauenland dennoch relativ dünn besiedelt. Die Infarstruktur wird hier vorallem durch diverese Schulen, die Universität am Wittelsbacher Platz und am Hubland, mehere Kirchen und zwei Krankenhäuser geprägt.\r\n\r\nNatürlich sind darüber hinaus auch Lebensmittelgeschäfte, Bäckereien, Ärzte, Aphotheken und Restaurants vorhanden. Von der Fichtestraße ist es nur ein Katzensprung auf den Stadtring Süd. Die Innenstadt erreicht man mit dem Bus in etwa 20 Minuten. Und vom nahegelegen Südbahnhof fahren mehrmals täglich Züge Richtung Treuchtlingen, Marktbreit oder Lauda.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.94099",
+                "breitengrad": "49.78390",
+                "strasse": "Fichtestraße",
+                "plz": "97074",
+                "ort": "Würzburg"
+              }
+            },
+            {
+              "id": 1973,
+              "type": "estate",
+              "elements": {
+                "Id": "1973",
+                "kaufpreis": "275000.00",
+                "lage": "Die Eigentumswohnung befindet sich in der Bürgermeister-Seubert-Straße im ehemaligen Baugebiet Mehle 1 in Höchberg.\r\nHöchberg liegt in Süd - Westlicher Richtung ca. 5 km von der Würzburger Altstadt entfernt.\r\nDie Gemeinde beherbergt aktuell ca. 9000 Einwohner.\r\nDie Ortsmitte von Höchberg erreichen Sie bequem in ca. 5 Gehminuten. \r\nSie verfügt über eine sehr gut ausgestattete Infrastruktur.\r\nHier finden Sie neben einer Vielzahl von Geschäften, Ärzten und Banken auch die Anbindung zum öffentlichen Personenverkehr.",
+                "vermarktungsart": "kauf",
+                "warmmiete": "0.00",
+                "laengengrad": "9.86637",
+                "breitengrad": "49.78360",
+                "strasse": "Bürgermeister-Seubert-Str.",
+                "plz": "97204",
+                "ort": "Höchberg"
+              }
+            }
+          ]
+        },
+        "status": {
+          "errorcode": 0,
+          "message": "OK"
+        }
+      }
+    ]
+  }
+}

@@ -1,3 +1,4 @@
 *
 !public/
 !.gitignore
+!objekte_api_response.json
