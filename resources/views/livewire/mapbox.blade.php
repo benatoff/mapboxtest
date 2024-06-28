@@ -29,7 +29,7 @@ use function Livewire\Volt\{computed, state, mount, updated};
         });
         const getHTML = (house) => {
             console.log(house)
-            return "<p style='color:black'>Hello World</p>"
+            return `<a href='/house/${house.house_id}'><img src="/storage/house.jpeg"></a>`
         }
         let markerMap = new Map()
         const createmarker = function(data) {

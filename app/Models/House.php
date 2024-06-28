@@ -15,9 +15,9 @@ class House extends Model
     /**
      * Model Rows
      *
-     * @return void
+     * @return array
      */
-    public function getRows()
+    public static function getRows()
     {
         //API
         $file = Storage::disk('local')->get("objekte_api_response.json");
@@ -26,10 +26,10 @@ class House extends Model
 
         // filtering some attributes
         $Houses = Arr::map($Houses, function ($item) {
-            return Arr::only(
+            $house = Arr::only(
                 get_object_vars($item->elements),
                 [
-                    // "Id",
+                    "Id",
                     "kaufpreis",
                     "lage",
                     "vermarktungsart",
@@ -41,7 +41,15 @@ class House extends Model
                     "ort",
                 ]
             );
+            $house['house_id'] = $house['Id'];
+            unset($house['Id']);
+            return $house;
         });
+
+        // $p1 = array_splice($Houses, "Id", 1);
+        // se
+        // $Houses = array_merge($p1, 1, $Houses);
+
         return $Houses;
     }
 }
