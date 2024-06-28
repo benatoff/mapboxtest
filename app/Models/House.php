@@ -22,10 +22,9 @@ class House extends Model
         //API
         $file = Storage::disk('local')->get("objekte_api_response.json");
         $Houses = json_decode($file)->response->results[0]->data->records;
-        // dd($results);
 
         // filtering some attributes
-        $Houses = Arr::map($Houses, function ($item) {
+        return Arr::map($Houses, function ($item) {
             $house = Arr::only(
                 get_object_vars($item->elements),
                 [
@@ -45,11 +44,5 @@ class House extends Model
             unset($house['Id']);
             return $house;
         });
-
-        // $p1 = array_splice($Houses, "Id", 1);
-        // se
-        // $Houses = array_merge($p1, 1, $Houses);
-
-        return $Houses;
     }
 }

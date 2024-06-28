@@ -44,13 +44,13 @@
             </div>
             @if($house['vermarktungsart']=='kauf')
             <x-input-label for="preis" value="Kaufpreis" />
-            <x-text-input :value="$house['kaufpreis']" id="art" class="block w-full mt-1" />
+            <x-text-input :value="$house['kaufpreis']" type="number" steps="1" disabled id="art" class="block w-full mt-1" />
             @else
             <x-input-label for="preis" value="Preis" />
             <x-text-input :value="$house['warmmiete']" id="art" class="block w-full mt-1" />
             @endif
             <x-input-label for="lage" value="Lage" />
-            <textarea diabled id="lage" rows="6" class="block w-full mt-1 border-gray-300 rounded-md shadow-sm focus:border-indigo-500 focus:ring-indigo-500">{{ $house['lage'] }}</textarea>
+            <textarea disabled id="lage" rows="6" class="block w-full mt-1 border-gray-300 rounded-md shadow-sm focus:border-indigo-500 focus:ring-indigo-500">{{ $house['lage'] }}</textarea>
         </div>
     </div>
 </body>

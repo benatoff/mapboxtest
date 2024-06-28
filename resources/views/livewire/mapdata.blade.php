@@ -12,12 +12,6 @@ $itemsjson = computed(function () {
 ?>
 
 <div>
-    <!-- <div wire:key="{{rand()}}"> -->
     <div x-data="mapdatakeyword" x-effect="render({{$items}})">
-        <div x-data="{itemsjson: {{ $items }}}">
-            <button x-on:click='console.log({{$items}})'>click</button>
-        </div>
     </div>
-
-    <!-- </div> -->
 </div>

@@ -43,21 +43,9 @@ class HouseResource extends Resource
                         'miete' => 'Miete',
                     ])
                     ->attribute('vermarktungsart')
-                // ->visible()
-                ,
-
-                // QueryBuilder::make()
-                //     ->constraints([
-                //         NumberConstraint::make('warmmiete'),
-                //         NumberConstraint::make('kaufpreis')
-                //     ])
 
             ], layout: FiltersLayout::AboveContent)
-            ->actions([
-                // Tables\Actions\ViewAction::make(),
-                // Tables\Actions\EditAction::make(),
-                // Tables\Actions\DeleteAction::make(),
-            ])
+            ->actions([])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([
                     Tables\Actions\DeleteBulkAction::make(),
